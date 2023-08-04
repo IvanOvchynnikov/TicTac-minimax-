@@ -33,7 +33,7 @@ td{
     width: calc(50px + (100 - 70) * (100vw - 200px) / (1220 - 200));
     text-align: center;
     vertical-align: center;
-    font-size: calc(35px + (70 - 35) * (100vw - 200px) / (1220 - 200));
+    font-size: calc(35px + (60 - 35) * (100vw - 200px) / (1220 - 200));
     cursor: pointer;
 }
 table{
